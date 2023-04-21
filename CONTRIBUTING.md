@@ -1,6 +1,6 @@
 # **How to Contribute to Hack for LA**
 
-# Intentional error
+# Intentional error 2
 
 👍🥳 First off, thanks for taking the time to contribute! 🥳👍
 
